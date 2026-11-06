@@ -1,0 +1,32 @@
+"Select an app to monitor its badge" = "􀊫 Select an app to monitor its badge";
+"About" = "About";
+"Stop monitoring" = "Stop monitoring";
+"Quit" = "Quit";
+"Launch at login" = "Launch at login";
+"Hide icon if monitored app isn't running" = "Hide icon if monitored app isn't running";
+"Hide icons when there are no new notifications" = "Hide icons when there are no new notifications";
+"Grayout icons when there are no new notifications" = "Grayout icons when there are no new notifications";
+"Show notification on full screen mode" = "Show notification even when menu bar is hidden";
+"Show as red badge" = "Show notification as a red badge";
+"Show only app icon" = "Just show app icon, hide all notifications";
+"Hotkey to open this config window" = "Hotkey to open this config window:";
+
+"About Viber Notifier" = "About Viber Notifier (%@)";
+"Tip me" = "Buy me a coffee if you love this app! :)";
+"Buy me a coffee" = "Buy me a coffee";
+"Hold option key ⌥ and click to config" = "Hold option key ⌥ and click to config";
+
+"About author" = "Made by **xiaogd**";
+"How it works?" = "How it works?";
+
+"Viber Notifier - badge watcher" = "Viber Notifier - badge watcher";
+"Open System Preferences" = "Open System Preferences";
+"OK" = "OK";
+"Permission grant guideline" = "Please go to \nSystem Preferences -> Security & Privacy -> Privacy -> Accessibility\nadd Viber Notifier to the list so it can monitor badge updates.";
+"Add monitor guideline" = "No app is monitoring, click \"+\" to add one.";
+
+
+"Show a red arrow so you don't miss any notifications! :)" = "Show a red arrow so you don't miss any notifications! :)";
+"Change icon" = "Change icon";
+
+"Invert the icon color on dark mode" = "Invert the icon color on dark mode";

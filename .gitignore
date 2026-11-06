@@ -1,0 +1,5 @@
+/dist/
+/DerivedData/
+.build/
+xcuserdata/
+.DS_Store
